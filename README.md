@@ -28,3 +28,18 @@ elif status == 'left':
 elif status == 'error':
   print(" call to support for check the api " ) 
 ```
+**json**
+```
+**true**
+{
+status: "join"
+}
+**false**
+{
+description: "Bad Request: user not found",
+status: "left"
+}
+**problem**
+{
+status: "error"
+}
