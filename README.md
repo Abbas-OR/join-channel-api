@@ -30,16 +30,17 @@ elif status == 'error':
 ```
 **json**
 ```
-**true**
+true
 {
 status: "join"
 }
-**false**
+false
 {
 description: "Bad Request: user not found",
 status: "left"
 }
-**problem**
+problem
 {
 status: "error"
 }
+```
