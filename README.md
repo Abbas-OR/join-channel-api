@@ -6,7 +6,7 @@
 ```
 1. git clone https://github.com/Abbas-OR/join-channel-api.git
 2. cd join-channel-api
-3. nano page.py and go to 13 and 14 llne change (can open other code editors)
+3. nano page.py and go to 12 and 13 llne change (can open other code editors)
 4. python3 page.py
 ```
 **How can call the api**
