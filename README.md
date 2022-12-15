@@ -17,7 +17,7 @@
 
 > can use (@username or id) for channel_id
 
-# code
+**code**
 ```
 if status == 'join':
   print("hi welcome")
