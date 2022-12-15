@@ -8,8 +8,8 @@ app.register_blueprint(joins, url_prefix ="/json")
 def home():
     return render_template("index.html") 
 if __name__ == '__main__':
-    #< just edit this
+    #< just edit here
     host = "127.0.0.1" # type your domain or server ip
     port = 80          # type a port (http://your-domain.com:port) or (http://your-server-id:port)
-    #just edit this >
+    #just edit here />
     app.run(debug=True, port=port, host=host)
