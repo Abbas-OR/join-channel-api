@@ -4,7 +4,7 @@
 
 > first download the files 
 ```
-1. git clone https://github.com/tarfandor/join-channel-api.git
+1. git clone https://github.com/Abbas-OR/join-channel-api.git
 2. cd join-channel-api
 3. nano page.py and go to 13 and 14 llne change (can open other code editors)
 4. python3 page.py
