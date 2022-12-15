@@ -14,6 +14,7 @@
 > http:// or https://your domain or server ip :port /json?token=bot_token&channel_id=channel_id&user_id=user_id
 > can use (@username or id) for channel_id
 # code
+```
 if status == 'join':
   print("hi welcome")
 elif status == 'left':
@@ -22,3 +23,4 @@ elif status == 'left':
   print(d)
 elif status == 'error':
   print(" call to support for check the api " ) 
+```
