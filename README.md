@@ -10,9 +10,11 @@
 4. python3 page.py
 ```
 # How can call the api
+```
 > just requset to the your domain or api  like  this 
 > http:// or https:// your domain or server ip :port /json?token=bot_token&channel_id=channel_id&user_id=user_id
 > can use (@username or id) for channel_id
+```
 # code
 ```
 if status == 'join':
